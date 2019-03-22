@@ -1,0 +1,10 @@
+kelengkeng,leci,mangga,pisang,rambutan
+apel,ceri,durian,jeruk,kelengkeng
+ceri,durian,jeruk,kelengkeng,leci
+durian,jeruk,kelengkeng,leci,mangga
+jeruk,kelengkeng,leci,mangga,pisang
+leci,semangka,rambutan,kelengkeng
+mangga,pisang,rambutan,semangka,apel
+pisang,apel,mangga
+mangga,pisang,kelengkeng,rambutan
+jeruk,durian
